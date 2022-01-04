@@ -3,8 +3,6 @@ module github.com/Hzhenyong/go-admin-core/sdk
 go 1.14
 
 require (
-	github.com/Hzhenyong/go-admin-core v1.4.2
-	github.com/Hzhenyong/go-admin-core/plugins/logger/zap v0.0.0-00010101000000-000000000000
 	//github.com/Hzhenyong/go-admin-core/plugins/logger/zap
 	github.com/Hzhenyong/gorm-adapter/v3 v3.3.1
 	github.com/bsm/redislock v0.5.0
